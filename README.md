@@ -6,7 +6,7 @@ A portfolio piece for CDS 593 (Theory and Applications of LLMs) at Boston Univer
 
 This project analyzes a character-level trigram Markov anagram name generator — a CLI tool that rearranges any input phrase into fictional character names using every letter exactly once. The analysis connects the tool's design choices to core LLM concepts: n-gram language models, temperature-based sampling, decoding strategies, and the limitations of fixed-context models. The notebook investigates how each design decision affects output quality and diversity, and situates the tool's architecture relative to modern sequence modeling. Each section in the analysis notebook has a written explanation of methods and interpretation of results; the notebook is meant to be read as a narrative. This is an improvement on and reflection of my week 1 lab.
 
-The dedicated github repository for the anagrammer can be found here: [text](https://github.com/kristenbestavros/anagrammer)
+The dedicated github repository for the anagrammer can be found [here.](https://github.com/kristenbestavros/anagrammer)
 
 Example usage:
 
