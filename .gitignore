@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Caches
+.pytest_cache/
+.ruff_cache/
+
+# Generated model caches
+anagrammer/data/.cache/
+
+# Environment
+.env
+.venv/
